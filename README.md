@@ -9,6 +9,8 @@ Hello! I am **Babloo**, an engineering student currently pursuing a **B.Tech deg
 - Python
 - R
 - Sql
+- HTML
+- CSS
 
 ### 🗄️ Database Tools
 - MySQL
