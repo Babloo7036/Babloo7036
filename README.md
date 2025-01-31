@@ -36,8 +36,8 @@ I am eager to learn and grow in the field of **Data Science**, explore **new tec
 
 ## 📬 Connect with Me
 Feel free to reach out to me for discussions, collaborations, or opportunities:
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [babloo.ug21@nsut.ac.in]
+- **LinkedIn:** [https://www.linkedin.com/in/babloo-choudhary-9b8b32318/]
 - **GitHub:** [Your GitHub Profile]
 
 Thank you for visiting my portfolio! 🚀
