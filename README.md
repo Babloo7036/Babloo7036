@@ -38,7 +38,7 @@ I am eager to learn and grow in the field of **Data Science**, explore **new tec
 Feel free to reach out to me for discussions, collaborations, or opportunities:
 - **Email:** [babloo.ug21@nsut.ac.in]
 - **LinkedIn:** [https://www.linkedin.com/in/babloo-choudhary-9b8b32318/]
-- **GitHub:** [Your GitHub Profile]
+- **GitHub:** [https://github.com/Babloo7036]
 
 Thank you for visiting my portfolio! 🚀
 
