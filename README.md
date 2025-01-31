@@ -28,6 +28,8 @@ Hello! I am **Babloo**, an engineering student currently pursuing a **B.Tech deg
 - Problem-Solving Ability
 - Time Management
 
+## 📜 Certifications
+
 ## 🏆 Projects & Experience
 I have worked on **multiple projects** that have significantly enhanced my **technical expertise** in data science and machine learning. These projects have helped me gain **practical experience** and **deep insights** into real-world data problems.
 
