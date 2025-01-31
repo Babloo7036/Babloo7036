@@ -30,6 +30,11 @@ Hello! I am **Babloo**, an engineering student currently pursuing a **B.Tech deg
 
 ## 📜 Certifications
 
+- Business Statistics from NPTEL [https://github.com/Babloo7036/Certificates/blob/main/Business%20Statistics.pdf]
+- Statistical Learning for Reliability Analysis from NPTEL [https://github.com/Babloo7036/Certificates/blob/main/Statistical%20Learning%20for%20Reliability%20Analysis.pdf]
+- Foundations of R Software [https://github.com/Babloo7036/Certificates/blob/main/Foundations%20of%20R%20Software.pdf]
+- Tableau Data Visualization Basics Tutorial [https://github.com/Babloo7036/Certificates/blob/main/Tableau.pdf]
+
 ## 🏆 Projects & Experience
 I have worked on **multiple projects** that have significantly enhanced my **technical expertise** in data science and machine learning. These projects have helped me gain **practical experience** and **deep insights** into real-world data problems.
 
