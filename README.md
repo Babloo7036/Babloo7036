@@ -8,6 +8,7 @@ Hello! I am **Babloo**, an engineering student currently pursuing a **B.Tech deg
 ### 🚀 Programming Languages
 - Python
 - R
+- Sql
 
 ### 🗄️ Database Tools
 - MySQL
