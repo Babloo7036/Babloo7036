@@ -55,6 +55,11 @@ I have worked on **multiple projects** that have significantly enhanced my **tec
   - Text preprocessing / data preprocessing
   - ML model evaluation
 
+### **3. Data Cleaning** [https://github.com/Babloo7036/Data_Preprocessing]
+  - Exploratory Data Analysis
+  - Feature Engineering
+  - Data Modeling
+
 ## 🎯 Career Goals
 I am eager to learn and grow in the field of **Data Science**, explore **new technologies**, and contribute to innovative solutions. My goal is to secure opportunities that allow me to apply my skills effectively and make a meaningful impact.
 
